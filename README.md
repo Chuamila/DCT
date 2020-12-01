@@ -1,0 +1,2 @@
+# DCT
+discrete consine transform
